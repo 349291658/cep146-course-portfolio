@@ -1,4 +1,4 @@
-# cep146-course-portfolio
+# Cep146 - 2025 Fall - Respository
 Portfolio of my work and projects for CEP146-NAA"
 
 # My Course Portfolio
